@@ -1,0 +1,8 @@
+*{font-family: "Mooli", sans-serif;
+padding: 0px;
+margin: 0px; }
+#d3{background-color: white;}
+#d1{background-color: rgba(245, 216, 244, 0.74);}
+h2,h5,h6{color: rgb(128, 17, 150)}
+#filled-required{background-color: rgb(243, 185, 243); 
+    color:rgb(128, 17, 150) ;}
